@@ -1,6 +1,5 @@
 # 💫 About Me:
-Motivated Information Technology student, currently pursuing the Bachelor of Information Technology at the Adelaide<br>University. Strong communication skills, combined with a solid IT background and experience in digital technologies.<br>Quick to learn and adapt to in fast-paced environments and new systems, with proven experience delivering client<br>support and clear explanations in face-to-face settings. With a positive mindset, resilience and commitment to<br>lifelong learning, I am eager to contribute by delivering professional, customer-focused service and client support both<br>in person and in a digital environment.
-
+Full-Stack Developer with a focus on AI-driven architecture and cybersecurity. Currently pursuing the Bachelor of Information Technology at the University of Adelaide with a GPA of 6.182, I specialise in building AI-driven applications using Next.js, TypeScript, and different AI models. A resilient problem-solver dedicated to deploying scalable, secure digital solutions and delivering high-impact technical support in fast-paced, enterprise environments.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hoa.nguyen.430397) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bahoanguyen/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenbahoa04@gmail.com) 
